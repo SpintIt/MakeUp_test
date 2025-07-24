@@ -75,6 +75,7 @@ Trash/
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
 /.idea/
+/.vscode/
 /Assets/YandexGame/ScriptsYG/Editor/PostProcessBuild/ModifyIndexFile/BuildLogYG.txt
 /.utmp
 /Assets/BuildReports
