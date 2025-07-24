@@ -41,6 +41,7 @@ public class Person : MonoBehaviour
         _cream.Reset();
         _blushZone.Reset();
         _eyeShadowZone.Reset();
+        _pomadeZone.Reset();
         _book.SetAccess(false);
     }
 }
